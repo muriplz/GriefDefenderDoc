@@ -6,63 +6,63 @@ heroImage: /logo.png
 heroText: GriefDefender
 tagline: Um plugin de proteção projetado para Bukkit e Sponge!
 actions:
-  - text: Como usar 💡
-    link: /br/wiki/
+  - text: Cómo usarlo 💡
+    link: /es/wiki/
 
   - text: GitHub
     link: https://github.com/bloodmc/GriefDefender
     type: secondary
 
 features:
-  - title: Desempenho
+  - title: Optimizado
     icon: FAST
-    details: Nada feitos as pressas, código leve e sem atrasos.
+    details: Nada de programación rápida e intrincada, código liviano y sin lag.
     link: https://github.com/bloodmc/GriefDefender
 
-  - title: Customizável
+  - title: Customizable
     icon: Toolbox
-    details: Use as bandeiras padrões ou crie as suas próprias. Infinitas possibilidades!
-    link: /br/wiki/advanced/Flags.html
+    details: Usa tus propias Flags o crea las tuyas propias. ¡Infinitas posibilidades!
+    link: /es/wiki/advanced/Flags.html
 
-  - title: Traduções multilíngues
+  - title: Traducciones multilingües
     icon: language
-    details: Muitos idiomas já disponíveis prontos para uso!
-    link: /br/wiki/#linguagem
+    details: Muchos idiomas a mano disponibles
+    link: /es/wiki/#lenguaje
 
-  - title: Suporte a banco de dados
+  - title: Soporte con bases de datos
     icon: database
-    details: Suporta MySQL, MariaDB, PostgreSQL e SQLite.
-    link: /br/wiki/#banco-de-dados
+    details: Soporta MySQL, MariaDB, PostgreSQL y SQLite.
+    link: /es/wiki/#bases-de-datos
 
   - title: IU interativa
     icon: smallscreen
-    details: Textos clicáveis no chat manuseie tudo por lá.
-    link: /br/wiki/basic/GUI.html
+    details: Texto clicable ó una GUI de inventario.
+    link: /es/wiki/basic/GUI.html
 
-  - title: Suporte a Mods
+  - title: Soporte con Mods
     icon: tools
-    details: Projetado desde o início para mods. Forge/Fabric/Hybrid/Sponge.
-    link: /br/mods/
+    details: Diseñado desde el inicio para mods. Forge/Fabric/Hybrid/Sponge.
+    link: /es/mods/
 
-  - title: Taxas. Aluguel e vendas
+  - title: Impuestos. Alquiler y venta
     icon: moneybag
-    details: Aumente sua economia alugando ou vendendo suas reivindicações e muito mais.
-    link: /br/wiki/basic/Tax-System.html
+    details: Impulsa tu economía alquilando o vendiendo tus protecciones, y más.
+    link: /es/wiki/basic/Tax-System.html
 
-  - title: Sistema de permissão
+  - title: Permisos de Luckperms
     icon: sheild
-    details: Tudo é tratado através de permissões. LuckPerms é necessário.
-    link: /br/wiki/Permissions.html
+    details: Todo está controlado por permisos de Luckperms.
+    link: /es/wiki/Permissions.html
 
-  - title: API bem projetada
+  - title: API bien diseñada
     icon: code
-    details: Conecte-se a tudo que o GriefDefender faz via API.
-    link: /br/API.html
+    details: Conéctate a todo lo que hace GD a través de la API.
+    link: /es/API.html
 
-  - title: Novos recursos ✨
-    details: Sempre escutando seus feedback.
+  - title: Nuevos recursos y características✨
+    details: Siempre escuchando comentarios.
     link: https://www.spigotmc.org/resources/68900/reviews
 
 copyright: false
-footer: MIT licenciado | Copyright © 2019-presente GriefDefender
+footer: Licencia MIT | Copyright © 2019-presente GriefDefender
 ---

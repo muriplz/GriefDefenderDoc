@@ -4,9 +4,9 @@ tag: faq
 category: faq
 ---
 
-## 1. How do I grant a specific group trust to ALL claims globally?
+## 1. ¿Cómo doy a un grupo específico permiso en TODAS las protecciones?
 
-Simply apply one of the following trust permissions to luckperms group
+Simplemente añade uno de estos permisos a tu grupo de LuckPerms
 
 **RESIDENT** - `griefdefender.trust.resident`  
 **ACCESSOR** - `griefdefender.trust.1.2.3.4`  
