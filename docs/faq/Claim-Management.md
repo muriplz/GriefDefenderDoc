@@ -28,7 +28,7 @@ Make sure you use the investigation tool (minecraft:stick by default) or are in 
 ## 5. How do I allow everyone to access my spawn?** 
 
 Give them accessor trust by using `/at public` where public represents all players.  
-See [Trust systema](/wiki/basic/Trust-System.html).  
+See [Trust system](/wiki/basic/Trust-System.html).  
 
 If you need more detailed protection then use the flag system.  
 See [Flag Definitions GUI](/wiki/basic/Flag-Definitions-GUI.html)
